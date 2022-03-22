@@ -84,7 +84,7 @@ const HomePage = () => {
                             all working together toward the same end goal: our clients’ success. And we’re always 
                             looking for new talents to join the team, too!
                         </p>
-                        <Link id="about-us-button-homepage" to='about-us'> Meet The Team </Link>
+                        <Link id="about-us-button-homepage" to='contact-us'> Meet The Team </Link>
                     </div>
                     <img alt="our homescreen logo"id="home-screen-getToKnowUs" src="https://greenviewsolutionsimages.s3.us-west-1.amazonaws.com/op/pencilsketchadjusted-3014772.png" />
                 </div>

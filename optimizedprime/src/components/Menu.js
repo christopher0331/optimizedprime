@@ -9,7 +9,7 @@ class Menu extends Component {
                     <Link id="nav-link" to="/"> Home </Link>
                     <Link id="nav-link" to="/seo"> SEO </Link>
                     <Link id="nav-link" to="/web-design"> Web Design </Link>
-                    <Link id="nav-link" to="/about-us"> About Us </Link>
+                    {/* <Link id="nav-link" to="/about-us"> About Us </Link> */}
                     <Link id="nav-link" to="/contact-us"> Contact Us </Link>
                     {/* <Link id="nav-link" to="/portfolio"> Portfolio </Link> */}
                 </nav>

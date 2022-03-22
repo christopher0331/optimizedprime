@@ -98,6 +98,32 @@ p {
   font-size: 20px;
 }
 
+.contactUsButton {
+  padding: 20px;
+  background-color: rgb(4, 190, 178);
+  color: white;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  margin-top: 20px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.contactUsButton:hover {
+  padding: 20px;
+  background-color: white;
+  transition: color .5s, background-color .5s, border .5s;
+  border: 2px solid black;
+  color: black;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  margin-top: 20px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
 #footOverview {
   display: flex;
   flex-direction: row;
@@ -113,6 +139,230 @@ p {
   padding: 1em;
   flex-direction: column;
 }
+
+.formBackground {
+  display: flex;
+  justify-content: center;
+  height: 350px; 
+  width: 100vw;
+  background-color: rgba(227, 227, 227, 0.714);
+  padding: 2em 2em 8em 2em;
+}
+
+
+.inputBox {
+  margin: 15px 15px;
+}
+
+.inputField {
+  width: 19vw;
+  padding: 20px 20px;
+  margin: 2em 2em;
+  border-bottom: 2px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 4px;
+}
+
+.inputField:focus {
+  outline: none !important;
+  border-color: #67aa7a;
+  box-shadow: 0 0 10px #67aa7a;
+}
+
+.messageArea {
+  display: flex;
+  justify-self: center;
+  width: 95%;
+  border-bottom: 2px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 4px;
+}
+
+.messageArea:focus {
+  outline: none !important;
+  border-color: #67aa7a;
+  box-shadow: 0 0 10px #67aa7a;
+}
+
+.messageBox {
+  display: flex;
+  justify-content: center;
+}
+
+.submitButtonBox {
+  display: flex;
+  justify-content: center;
+}
+
+.submitButton {
+  margin-top: 10px;
+  font-size: 20px;
+  border-radius: 8px;
+  padding: 10px 15px;
+  font-weight: 600;
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+}
+
+.submitButton:hover {
+  font-weight: 600;
+  font-size: 20px;
+  padding: 10px 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+  color: black;
+  background-color: white;
+  border: 2px solid darkgreen;
+}
+
+.contactInfoBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 350px;
+  background-color: black;
+  padding: 10px 30px;
+}
+
+.itemsBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.contactInfoTitle {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.contactNumber {
+  font-size: 46px;
+  font-weight: 300;
+  color: white;
+}
+
+.availability {
+  font-size: 22px;
+  color: rgba(227, 227, 227, 0.714);
+  font-weight: 100;
+}
+
+.contactAddress {
+  font-size: 18px;
+  color: white;
+}
+
+.contactEmail {
+  font-size: 25px;
+  color: white;
+  font-weight: 300;
+}
+
+.leafIcon {
+  font-size: 60px;
+  color: green;
+}
+
+
+.contactFormAndInfoBreakpoint {
+  display: none;
+}
+
+.contactUsParagraph {
+  padding: 50px 150px;
+}
+.contactFormAndInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+@media screen and (max-width: 921px) {
+    
+  .contactFormAndInfo {
+      display: none; 
+  }
+
+  .contactFormAndInfoBreakpoint{
+      display: flex;
+      flex-direction: column;
+  }
+
+  .contactInfoBP {
+      display: flex;
+      flex-direction: column;
+      align-self: center;
+      align-items: center;
+      width: 70%;
+      height: 350px;
+      background-color: black;
+      padding: 10px 30px;
+  }
+
+  .contactFormBP {
+      display: flex;
+      flex-direction: column;
+      align-self: center;
+      align-items: center;
+      width: 70%;
+      height: 350px;
+      background-color: black;
+      padding: 10px 30px;
+  }
+
+  .contactInfoTitle {
+      font-size: 30px;
+      font-weight: 500;
+  }
+  
+  .contactNumber {
+      font-size: 36px;
+      font-weight: 300;
+      color: white;
+  }
+  .availability {
+      font-size: 18px;
+      color: rgba(227, 227, 227, 0.714);
+      font-weight: 100;
+  }
+  
+  .contactAddress {
+      font-size: 14px;
+      color: white;
+  }
+  
+  .contactEmail {
+      font-size: 20px;
+      color: white;
+      font-weight: 300;
+  }
+  .inputBox {
+      margin: 5px 5px;
+  }
+  
+  .inputField {
+      width: 17vw;
+      padding: 10px 10px;
+      border-bottom: 2px solid black;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      border-radius: 4px;
+  }
+
+
+  .contactUsParagraph {
+      padding: 50px 50px;
+  }
+
+}
+
 
 #menu {
   display: flex;
@@ -166,7 +416,7 @@ p {
   justify-content: center;
   align-items: center;
   height: 80vh;
-  background-color: hsl(176,96%,38%);
+  background-color: rgb(4, 190, 178);
 }
 
 .homepage {
@@ -281,9 +531,26 @@ p {
   padding: 5vw 15vh;
 }
 
-.title-and-text {
-  padding: 30px 50px;
+.title-and-text{
+
 }
+
+.title-and-text h3{
+  display: flex;
+  justify-content: center;
+  font-weight: 900;
+  font-size: 40px;
+  padding: -20px -20px;
+
+}
+
+.title-and-text p{
+  display: flex;
+  justify-content: center;
+  padding: -20px -20px;
+
+}
+
 
 #home-screen-getToKnowUs {
   display: flex;

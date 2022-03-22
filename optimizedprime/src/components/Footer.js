@@ -19,9 +19,9 @@ const Footer = () => {
                     <Link id="nav-link-footer" to="/web-design"> Web Design </Link>
                 </div>
                 <div className="footerMenuSub">
-                    <Link id="nav-link-footer" to="/about-us"> About Us </Link>
+                    {/* <Link id="nav-link-footer" to="/about-us"> About Us </Link> */}
                     <Link id="nav-link-footer" to="/contact-us"> Contact Us </Link>
-                    <Link id="nav-link-footer" to="/portfolio"> Portfolio </Link>
+                    {/* <Link id="nav-link-footer" to="/portfolio"> Portfolio </Link> */}
                 </div>
             </div>
             <div id="footerText">
