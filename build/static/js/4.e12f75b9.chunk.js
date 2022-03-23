@@ -1,0 +1,2 @@
+(this.webpackJsonpoptimizedprime=this.webpackJsonpoptimizedprime||[]).push([[4],{35:function(e,s,i){"use strict";i.r(s);i(0);var t=i(3);s.default=function(){return Object(t.jsx)("div",{className:"about-us",children:Object(t.jsxs)("div",{className:"about-us-hero",children:[Object(t.jsx)("div",{className:"hero-text",children:"We Are SEOs, Writers, Designers, Developers and Strategists\u2026"}),Object(t.jsx)("div",{className:"hero-sub-text",children:"Modern Web Design Services Developed to Grow Your Business"})]})})}}}]);
+//# sourceMappingURL=4.e12f75b9.chunk.js.map

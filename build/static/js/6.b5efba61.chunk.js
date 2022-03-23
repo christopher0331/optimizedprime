@@ -1,0 +1,2 @@
+(this.webpackJsonpoptimizedprime=this.webpackJsonpoptimizedprime||[]).push([[6],{37:function(i,e,t){"use strict";t.r(e);t(0);var o=t(3);e.default=function(){return Object(o.jsx)("div",{id:"footer",children:"Footer"})}}}]);
+//# sourceMappingURL=6.b5efba61.chunk.js.map

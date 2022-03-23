@@ -1,0 +1,2 @@
+(this.webpackJsonpoptimizedprime=this.webpackJsonpoptimizedprime||[]).push([[5],{36:function(e,t,c){"use strict";c.r(t);var s=c(3);t.default=function(){return Object(s.jsx)("div",{className:"contact-us",children:Object(s.jsxs)("div",{className:"contact-us-hero",children:[Object(s.jsx)("div",{className:"hero-text",children:"Get In Touch"}),Object(s.jsx)("div",{className:"hero-sub-text",children:"We\u2019re ready to accelerate your digital marketing success"})]})})}}}]);
+//# sourceMappingURL=5.f3977a6b.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpoptimizedprime=this.webpackJsonpoptimizedprime||[]).push([[9],{33:function(e,s,i){"use strict";i.r(s);var t=i(3);s.default=function(){return Object(t.jsxs)("div",{className:"web-design",children:[Object(t.jsxs)("div",{className:"web-design-hero",children:[Object(t.jsx)("div",{className:"hero-text",children:"Make A Statement"}),Object(t.jsx)("div",{className:"hero-sub-text",children:"Modern Web Design Services Developed to Grow Your Business"})]}),"Text"]})}}}]);
+//# sourceMappingURL=9.c8e64afb.chunk.js.map

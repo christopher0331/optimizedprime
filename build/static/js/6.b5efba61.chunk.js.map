@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Footer.js"],"names":["Footer","id"],"mappings":"iHAAA,uBAUeA,UARA,WACX,OACI,qBAAKC,GAAG,SAAR","file":"static/js/6.b5efba61.chunk.js","sourcesContent":["import React from 'react';\n\nconst Footer = () => {\n    return(\n        <div id=\"footer\">\n            Footer\n        </div>\n    )\n}\n\nexport default Footer;"],"sourceRoot":""}
