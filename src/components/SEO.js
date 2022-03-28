@@ -147,8 +147,7 @@ const SEO = () => {
                                 </div>
                                 
                                 <p className="packagesText">
-                                    A flexible, low-risk solution for seo growth - 
-                                    perfect for small businesses & start-ups
+                                Modern, cutting edge optimization strategies – all executed for a reasonable price
                                 </p>
                             </div>
                             <div className="seoPackageBottom">
@@ -173,8 +172,7 @@ const SEO = () => {
                                 </div>
                                 
                                 <p className="packagesText">
-                                    A flexible, low-risk solution for seo growth - 
-                                    perfect for small businesses & start-ups
+                                For companies ready for an advanced, wide-reaching & dominant approach to SEO
                                 </p>
                             </div>
                             <div className="seoPackageBottom">
@@ -199,8 +197,7 @@ const SEO = () => {
                                 </div>
                                 
                                 <p className="packagesText">
-                                    A flexible, low-risk solution for seo growth - 
-                                    perfect for small businesses & start-ups
+                                When only the best will do - we offer full-service SEO packages to achieve your goals
                                 </p>
                             </div>
                             <div className="seoPackageBottom">
